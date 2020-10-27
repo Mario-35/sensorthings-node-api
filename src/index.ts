@@ -1,1 +1,1 @@
-console.log('Hello world appart !')
+console.log('Hello world!');
